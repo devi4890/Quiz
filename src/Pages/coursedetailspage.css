@@ -1,0 +1,17 @@
+.coursedetails{text-align: center;padding:45px 45px 45px 45px;background-color: rgb(42, 122, 122);color:aliceblue}
+h3,h2,p{color:white;}
+.selected-choice {
+    background-color: #ffc107; /* Yellow background for selected choice */
+    color: #fff; /* White text color for better visibility */
+}
+.question-text {
+    font-size: 19px; /* Adjust the font size as needed */text-align:left;
+}
+.course-details-box {
+    border: 1px solid #7793cb;
+    border-radius: 5px;
+    padding: 50px;
+    margin: 1px 216px 1px 216px ;
+    background-color: #85ccec; /* Optional background color */
+  }
+  

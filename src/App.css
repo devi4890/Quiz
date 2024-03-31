@@ -1,0 +1,9 @@
+.aos-item {
+    opacity: 0;
+    transition: opacity 0.8s ease-in-out;
+  }
+  
+  .aos-item.aos-animate {
+    opacity: 1;
+  }
+  
